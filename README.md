@@ -34,5 +34,5 @@ Consistent yearly releases indicate stable production
 
 
 ## 👩‍💻 Author
-Amala Joseph
+Amala Joseph,
 Email: amalajose2000@gmail.com
